@@ -9,6 +9,8 @@
 # @raycast.packageName Viscosity
 # @raycast.icon images/viscosity.png
 # @raycast.argument1 { "type": "text", "placeholder": "Profile", "optional": true}
+#
+# Documentation:
 # @raycast.description Toggle Viscosity VPN connection
 # @raycast.author Andrey Lubovskiy
 # @raycast.authorURL https://github.com/lubovskiy

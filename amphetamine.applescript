@@ -9,6 +9,8 @@
 # @raycast.packageName Amphetamine
 # @raycast.icon images/amphetamine.png
 # @raycast.argument1 { "type": "text", "placeholder": "Duration", "optional": true}
+#
+# Documentation:
 # @raycast.description Toggle Amphetamine Session
 # @raycast.author Andrey Lubovskiy
 # @raycast.authorURL https://github.com/lubovskiy
